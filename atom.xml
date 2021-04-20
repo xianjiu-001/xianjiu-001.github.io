@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>仙九Blog</title>
+  
+  <subtitle>孤岛</subtitle>
+  <link href="http://xianjiu-001.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://xianjiu-001.github.io/"/>
+  <updated>2021-04-20T05:48:15.711Z</updated>
+  <id>http://xianjiu-001.github.io/</id>
+  
+  <author>
+    <name>仙九</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tableau</title>
+    <link href="http://xianjiu-001.github.io/posts/4401.html"/>
+    <id>http://xianjiu-001.github.io/posts/4401.html</id>
+    <published>2021-04-18T13:25:00.000Z</published>
+    <updated>2021-04-20T05:48:15.711Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;环形图制作&quot;&gt;&lt;a href=&quot;#环形图制作&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="可视化" scheme="http://xianjiu-001.github.io/categories/%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+    
+    <category term="tableau" scheme="http://xianjiu-001.github.io/tags/tableau/"/>
+    
+    <category term="图表" scheme="http://xianjiu-001.github.io/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blog美化时间轴</title>
+    <link href="http://xianjiu-001.github.io/posts/9600.html"/>
+    <id>http://xianjiu-001.github.io/posts/9600.html</id>
+    <published>2021-04-18T12:25:00.000Z</published>
+    <updated>2021-04-20T05:45:27.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2021-4-18&quot;&gt;&lt;a href=&quot;#2021-4-18&quot; class=&quot;headerlink&quot; title=&quot;2021-4-18&quot;&gt;&lt;/a&gt;2021-4-18&lt;/h1&gt;&lt;h2 id=&quot;添加自动生成类别&quot;&gt;&lt;a href=&quot;#添加自动生成类别&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="时光轴" scheme="http://xianjiu-001.github.io/categories/%E6%97%B6%E5%85%89%E8%BD%B4/"/>
+    
+    
+    <category term="个人blog" scheme="http://xianjiu-001.github.io/tags/%E4%B8%AA%E4%BA%BAblog/"/>
+    
+    <category term="Matery" scheme="http://xianjiu-001.github.io/tags/Matery/"/>
+    
+    <category term="Hexo" scheme="http://xianjiu-001.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scrapy爬虫框架</title>
+    <link href="http://xianjiu-001.github.io/posts/b2a.html"/>
+    <id>http://xianjiu-001.github.io/posts/b2a.html</id>
+    <published>2021-04-18T12:25:00.000Z</published>
+    <updated>2021-04-20T05:49:02.816Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://xianjiu-001.github.io/categories/python/"/>
+    
+    
+    <category term="爬虫" scheme="http://xianjiu-001.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="Scrapy框架" scheme="http://xianjiu-001.github.io/tags/Scrapy%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三壶谜题</title>
+    <link href="http://xianjiu-001.github.io/posts/fa62.html"/>
+    <id>http://xianjiu-001.github.io/posts/fa62.html</id>
+    <published>2021-04-15T12:46:25.000Z</published>
+    <updated>2021-04-20T05:47:16.768Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;有一个充满水的8品脱的水壶和两个空水壶（容积分别是5品脱和3品脱）。通过将水壶完全倒满水和将水壶的水完全倒空这两种方式，在其中的一个水壶中得到4品脱的水。&lt;/p&gt;
+&lt;h1 id=&quot;一、算法思想&quot;&gt;&lt;a href=&quot;#一、算法思想&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法小题" scheme="http://xianjiu-001.github.io/categories/%E7%AE%97%E6%B3%95%E5%B0%8F%E9%A2%98/"/>
+    
+    
+    <category term="类" scheme="http://xianjiu-001.github.io/tags/%E7%B1%BB/"/>
+    
+    <category term="广度优先遍历" scheme="http://xianjiu-001.github.io/tags/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86/"/>
+    
+    <category term="递归" scheme="http://xianjiu-001.github.io/tags/%E9%80%92%E5%BD%92/"/>
+    
+  </entry>
+  
+</feed>
