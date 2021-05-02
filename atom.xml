@@ -6,7 +6,7 @@
   <link href="http://xianjiu-001.github.io/atom.xml" rel="self"/>
   
   <link href="http://xianjiu-001.github.io/"/>
-  <updated>2021-04-20T05:48:15.711Z</updated>
+  <updated>2021-05-02T14:01:16.770Z</updated>
   <id>http://xianjiu-001.github.io/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>B站天选直播抽奖</title>
+    <link href="http://xianjiu-001.github.io/posts/313f.html"/>
+    <id>http://xianjiu-001.github.io/posts/313f.html</id>
+    <published>2021-05-02T03:20:00.000Z</published>
+    <updated>2021-05-02T14:01:16.770Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-项目须知&quot;&gt;&lt;a href=&quot;#1-项目须知&quot; class=&quot;headerlink&quot; title=&quot;1.项目须知&quot;&gt;&lt;/a&gt;1.项目须知&lt;/h2&gt;&lt;h3 id=&quot;既然是薅羊毛项目，当然要谈一谈收益几何？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="薅羊毛" scheme="http://xianjiu-001.github.io/categories/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+    
+    
+    <category term="JavaScript" scheme="http://xianjiu-001.github.io/tags/JavaScript/"/>
+    
+    <category term="油猴" scheme="http://xianjiu-001.github.io/tags/%E6%B2%B9%E7%8C%B4/"/>
+    
+    <category term="脚本" scheme="http://xianjiu-001.github.io/tags/%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Request初识</title>
+    <link href="http://xianjiu-001.github.io/posts/1cb6.html"/>
+    <id>http://xianjiu-001.github.io/posts/1cb6.html</id>
+    <published>2021-04-24T12:46:25.000Z</published>
+    <updated>2021-04-25T14:01:17.364Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;cookie和session基础&quot;&gt;&lt;a href=&quot;#cookie和session基础&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="http://xianjiu-001.github.io/categories/python/"/>
+    
+    
+    <category term="爬虫" scheme="http://xianjiu-001.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="requests" scheme="http://xianjiu-001.github.io/tags/requests/"/>
+    
+    <category term="http协议" scheme="http://xianjiu-001.github.io/tags/http%E5%8D%8F%E8%AE%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>Tableau</title>

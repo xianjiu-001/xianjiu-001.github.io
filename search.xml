@@ -4,6 +4,64 @@
   
     
     <entry>
+      <title>B站天选直播抽奖</title>
+      <link href="posts/313f.html"/>
+      <url>posts/313f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-项目须知"><a href="#1-项目须知" class="headerlink" title="1.项目须知"></a>1.项目须知</h2><h3 id="既然是薅羊毛项目，当然要谈一谈收益几何？"><a href="#既然是薅羊毛项目，当然要谈一谈收益几何？" class="headerlink" title="既然是薅羊毛项目，当然要谈一谈收益几何？"></a>既然是薅羊毛项目，当然要谈一谈收益几何？</h3><p>根据我将近一个星期的测试，这个单号中奖概率在1天<em>1~3</em>次左右，价值不等。有运气好的群友可以抽到红米K40，手办，switch等等，也有的是抽到一起打游戏啊这类的没有价值的东西。反正除了欧皇以外，单号每天收益也就大约<em>1.5R</em>左右吧。</p><h3 id="谈收益不谈成本，那不是耍流氓么？"><a href="#谈收益不谈成本，那不是耍流氓么？" class="headerlink" title="谈收益不谈成本，那不是耍流氓么？"></a>谈收益不谈成本，那不是耍流氓么？</h3><p>每天都需要挂着脚本的长期运行，当然你可以中了一次之后就把天选关掉就不抽了</p><h3 id="相关工具"><a href="#相关工具" class="headerlink" title="相关工具"></a>相关工具</h3><p>你需要准备的核心工具是（百度网盘链接：<a href="https://pan.baidu.com/s/1BBR-vwJuMVHytxIlwh3bgQ">https://pan.baidu.com/s/1BBR-vwJuMVHytxIlwh3bgQ</a>   提取码：xjjj ）：</p><ul><li>一个可上网的可长期挂着浏览器的电脑或者其他设备</li><li>油猴插件或者暴力猴插件</li><li>天选脚本</li></ul><h2 id="2-脚本配置"><a href="#2-脚本配置" class="headerlink" title="2.脚本配置"></a>2.脚本配置</h2><h3 id="1-安装一个可以安装插件的浏览器"><a href="#1-安装一个可以安装插件的浏览器" class="headerlink" title="1.安装一个可以安装插件的浏览器"></a>1.安装一个可以安装插件的浏览器</h3><p>电脑端：Chrome、Microsoft Edge或者Firefox</p><p>安卓手机端：Kiwi、Firefox</p><p>kiwi在工具包中有。</p><h2 id="2-安装天选抽奖JS脚本"><a href="#2-安装天选抽奖JS脚本" class="headerlink" title="2.安装天选抽奖JS脚本"></a>2.安装天选抽奖JS脚本</h2><p>安装方式分两种：</p><ul><li>大佬私链</li></ul><pre class="line-numbers language-js"><code class="language-js">https<span class="token punctuation">:</span><span class="token operator">/</span><span class="token operator">/</span>greasyfork<span class="token punctuation">.</span>org<span class="token operator">/</span>zh<span class="token operator">-</span>CN<span class="token operator">/</span>scripts<span class="token operator">/</span><span class="token number">424074</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><ul><li>手动添加脚本</li></ul><p>打开工具包中的<strong>天选抽奖.txt</strong>文件，全选（Ctrl+A）然后（Ctrl+C）。</p><p>打开浏览器中的油猴插件添加新脚本。全选（Ctrl+A）然后（Ctrl+V）再保存（Ctrl+S）。</p><p><img src="/medias/loading_img.gif" data-original="https://cdn.jsdelivr.net/gh/xianjiu-001/blog_img/images/20210502214138.png" alt="添加脚本"></p><p><img src="/medias/loading_img.gif" data-original="https://cdn.jsdelivr.net/gh/xianjiu-001/blog_img/images/20210502214332.png" alt="添加脚本界面"></p><h2 id="3-脚本设置"><a href="#3-脚本设置" class="headerlink" title="3.脚本设置"></a>3.脚本设置</h2><p>进入任意一个B站直播的直播间等待脚本的加载。</p><p><img src="/medias/loading_img.gif" data-original="https://cdn.jsdelivr.net/gh/xianjiu-001/blog_img/images/20210502215821.png" alt="配置一"></p><p><img src="/medias/loading_img.gif" data-original="https://cdn.jsdelivr.net/gh/xianjiu-001/blog_img/images/20210502215934.png" alt="配置二"></p><p>至此电脑版脚本配置完毕。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 薅羊毛 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> 油猴 </tag>
+            
+            <tag> 脚本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Request初识</title>
+      <link href="posts/1cb6.html"/>
+      <url>posts/1cb6.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="cookie和session基础"><a href="#cookie和session基础" class="headerlink" title="cookie和session基础"></a>cookie和session基础</h2><p>http协议是无状态协议，用户浏览服务器上的内容时，只需要发送请求，服务器返回内容。对于服务器而言，他不关心是哪个用户的请求。但是大多数网站是需要用户登陆的，为了标记用户，服务器采用了cookie机制来识别是哪一个用户的请求。</p><h2 id="cookie机制"><a href="#cookie机制" class="headerlink" title="cookie机制"></a>cookie机制</h2><p>为了实现用户标记，在Http无状态请求的基础之上，我们需要在请求中携带一些用户信息（比如用户名之类，这些信息是服务器发送到本地浏览器的，但是服务器并不存储这些信息）</p><ul><li><strong>需要注意的是：cookie信息是保存在本地浏览器里面的，服务器上并不存储相关的信息。 在发送请求时，cookie的这些内容是放在 Http协议中的header 字段中进行传输的。</strong></li><li><strong>几乎现在所有的网站都会发送一些 cookie信息过来，当用户请求中携带了cookie信息，服务器就可以知道是哪个用户的访问了，从而不需要再使用账户和密码登录。</strong></li><li><strong>cookie信息是直接放在Http协议的header中进行传输的</strong>，看得出来，这是个隐患！一旦别人获取到你的cookie信息（截获请求，或者使用你的电脑），那么他很容易从cookie中分析出你的用户名和密码。为了解决这个隐患，所以有了session机制。</li></ul><h2 id="session机制"><a href="#session机制" class="headerlink" title="session机制"></a>session机制</h2><ol><li><p>服务器根据用户名和密码，生成一个session ID，存储到服务器的数据库中。</p></li><li><p>用户登录访问时，服务器会将对应的session ID发送给用户（本地浏览器）</p></li><li><p>浏览器会将这个session ID存储到cookie中，作为一个键值项。</p></li><li><p>以后，浏览器每次请求，就会将含有session ID的cookie信息，一起发送给服务器。</p></li><li><p>服务器收到请求之后，通过cookie中的session ID，到数据库中去查询，解析出对应的用户名，就知道是哪个用户的请求了。</p></li></ol><h2 id="模拟登陆"><a href="#模拟登陆" class="headerlink" title="模拟登陆"></a>模拟登陆</h2><p>一般分析流程：</p><ol><li>分别用错的用户名和错的密码、对的用户名和错的密码以及对的用户名对的密码来登录三次。（<strong>正确登录后，页面会进行跳转，页面和请求都会被刷新，不便于找出原始的请求</strong>）</li><li>在浏览器开发者工具（打开浏览器按<strong>F12</strong>即可使用开发者工具）中<em>network</em>选项下勾选<em>preserve log</em>，保留跳转前的请求相关数据</li><li>cookie保存机制</li></ol><pre class="line-numbers language-python"><code class="language-python">​```<span class="token comment" spellcheck="true"># 环境python3、windows</span><span class="token keyword">import</span> requests<span class="token keyword">from</span> cookiejar <span class="token keyword">import</span> cookielib<span class="token keyword">def</span> <span class="token function">demosession</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>    <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><pre><code></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 爬虫 </tag>
+            
+            <tag> requests </tag>
+            
+            <tag> http协议 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Tableau</title>
       <link href="posts/4401.html"/>
       <url>posts/4401.html</url>
